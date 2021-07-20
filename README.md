@@ -1,2 +1,2 @@
 # SuvenProject
-Suven intership java project
+Suven Internship Java Project
